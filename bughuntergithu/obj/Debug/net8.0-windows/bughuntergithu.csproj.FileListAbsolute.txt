@@ -1,0 +1,17 @@
+E:\c# vs\bughuntergithu\bughuntergithu\bin\Debug\net8.0-windows\bughuntergithu.exe
+E:\c# vs\bughuntergithu\bughuntergithu\bin\Debug\net8.0-windows\bughuntergithu.deps.json
+E:\c# vs\bughuntergithu\bughuntergithu\bin\Debug\net8.0-windows\bughuntergithu.runtimeconfig.json
+E:\c# vs\bughuntergithu\bughuntergithu\bin\Debug\net8.0-windows\bughuntergithu.dll
+E:\c# vs\bughuntergithu\bughuntergithu\bin\Debug\net8.0-windows\bughuntergithu.pdb
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.Form1.resources
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.csproj.GenerateResource.cache
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.AssemblyInfoInputs.cache
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.AssemblyInfo.cs
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.csproj.CoreCompileInputs.cache
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.dll
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\refint\bughuntergithu.dll
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.pdb
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.genruntimeconfig.cache
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\ref\bughuntergithu.dll
+E:\c# vs\bughuntergithu\bughuntergithu\obj\Debug\net8.0-windows\bughuntergithu.Properties.Resources.resources
