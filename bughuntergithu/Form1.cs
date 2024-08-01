@@ -44,7 +44,7 @@ namespace bughuntergithu
 
             const string q = "\"";
             string githubUrl = "https://github.com/search";
-            string searchQuery = domain.Text + " " + q + $"{selectedItemText}" + q;
+            string searchQuery = domain.Text + " " + q + $"\"{selectedItemText}\"" + q;
             string fullUrl = $"{githubUrl}?q={searchQuery}&type=code";
             Process.Start(new ProcessStartInfo { FileName = fullUrl, UseShellExecute = true });
         }
@@ -55,7 +55,7 @@ namespace bughuntergithu
 
             const string q = "\"";
             string githubUrl = "https://github.com/search";
-            string searchQuery = domain.Text + " " + q + $"{selectedItemText}" + q;
+            string searchQuery = domain.Text + " " + q + $"\"{selectedItemText}\"" + q;
             string fullUrl = $"{githubUrl}?q={searchQuery}&type=code";
             Process.Start(new ProcessStartInfo { FileName = fullUrl, UseShellExecute = true });
         }
