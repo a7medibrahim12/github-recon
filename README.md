@@ -23,7 +23,7 @@ Step1: Download the file from Release section: [Download Tool](https://github.co
 
 
 # We welcome any suggestions or ideas for this tool :
-> twitter **@a0ibx00**
+> [twitter](https://x.com/a0ibx00)
 , [Linkedin](https://www.linkedin.com/in/a0ibx00?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 and [medium](https://medium.com/@aaedoo54/github-recon-github-recon-github-search-is-a-quite-powerful-and-useful-feature-that-can-be-used-818f2bfe5c00).
 
