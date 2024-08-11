@@ -9,7 +9,7 @@ This tool can be used in addition to your regular bug hunting approach. The idea
 
 
 # How to use this tool?
-Step1: Download the file from Release section: [Download Tool] and
+Step1: Download the file from Release section: [Download Tool](https://github.com/a7medibrahim12/github-recon/releases/download/v1.1.0/bughuntergithub.zip) and
 [Explanation video](https://github.com/user-attachments/assets/e5150d33-3826-43d8-9389-1b100ff32e09)
 
 1. ***write the domain .***
