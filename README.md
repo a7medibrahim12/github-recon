@@ -9,7 +9,8 @@ We welcome any suggestions or ideas for this tool twitter **@a0ibx00**
 
 
 # How to use this tool?
-Step1: Download the file from Release section: [Download Tool](https://github.com/a7medibrahim12/github-recon/archive/refs/tags/v1.0.0.zip).
+Step1: Download the file from Release section: [Download Tool](https://github.com/a7medibrahim12/github-recon/archive/refs/tags/v1.0.0.zip) and
+[Explanation video](https://github.com/user-attachments/assets/e5150d33-3826-43d8-9389-1b100ff32e09)
 
 1. ***write the domain .***
 2. ***Click on any word in any list .***
