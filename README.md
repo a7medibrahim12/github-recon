@@ -5,11 +5,11 @@ Github Search is a quite powerful and useful feature that can be used to search 
 # info :
 The **github-recon** tool use most of word, extinsions and file names using GitHub dorks and to speed up the initial reconnaissance of the target organization. Reconnaissance is the most important step in any penetration testing or bug hunting process and search on secret data . It provides the attacker with some knowledge about the target organization.
 This tool can be used in addition to your regular bug hunting approach. The idea is to quickly check and gather information about the target organization without investing time . Additionally, it can help you determine an approach towards finding some quick wins on the target.
-We welcome any suggestions or ideas for this tool twitter **@a0ibx00**
+
 
 
 # How to use this tool?
-Step1: Download the file from Release section: [Download Tool](https://github.com/a7medibrahim12/github-recon/archive/refs/tags/v1.0.0.zip) and
+Step1: Download the file from Release section: [Download Tool] and
 [Explanation video](https://github.com/user-attachments/assets/e5150d33-3826-43d8-9389-1b100ff32e09)
 
 1. ***write the domain .***
